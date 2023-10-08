@@ -1,0 +1,82 @@
+.amer-main{
+    background-color: rgb(226, 229, 232);
+    padding: 40px 80px 80px 80px;
+    display: flex;
+}
+
+.amer-image{
+    background-image: url('https://www.jaipurstuff.com/wp-content/uploads/2019/03/amer-fort-jaipur.jpg');
+    background-size: 100% 100%;
+    height: 350px;
+    width: 35%;
+    margin-right: 30px;
+    box-shadow: 0 0 4px 8px black;
+    border-radius: 8px;
+}
+
+.amer-content{
+    width: 70%;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.gateway-image{
+    background-image: url('https://cdn.britannica.com/79/188879-050-25E7733E/Gateway-of-India-Mumai-monument-2012.jpg');
+    background-size: 100% 100%;
+    height: 350px;
+    width: 35%;
+    margin-right: 30px;
+    box-shadow: 0 0 4px 8px black;
+    border-radius: 8px;
+}
+
+.jaisalmer-image{
+    background-image: url('https://www.trawell.in/admin/images/upload/825652759Jaisalmer_Fort_Main.jpg');
+    background-size: 100% 100%;
+    height: 350px;
+    width: 35%;
+    margin-right: 30px;
+    box-shadow: 0 0 4px 8px black;
+    border-radius: 8px;
+}
+
+.charminar-image{
+    background-image: url('https://img.staticmb.com/mbcontent/images/uploads/2022/9/Charminar-Hyderabad.jpg');
+    background-size: 100% 100%;
+    height: 350px;
+    width: 35%;
+    margin-right: 30px;
+    box-shadow: 0 0 4px 8px black;
+    border-radius: 8px;
+}
+
+.qutubminar-image{
+    background-image: url('https://hblimg.mmtcdn.com/content/hubble/img/delhi/mmt/activities/m_activities_delhi_qutab_minar_l_384_574.jpg');
+    background-size: 100% 100%;
+    height: 350px;
+    width: 35%;
+    margin-right: 30px;
+    box-shadow: 0 0 4px 8px black;
+    border-radius: 8px;
+}
+
+.khajuraho-image{
+    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcx0Czg6j2jsHnVgDR7UTqjjy6ULUIfhbZAmkqr97l13qwdC00ziqVbdbUPzp0UuMiyVCEqhYmFubB6CHuMIMlUes9OWz8dSyRK0sTRafigrv7DzAoXYR3h5hsAwhy4Nu0hp6XktgUevuUAAPW2F7QLENjj-xE7wB7t42Gu4GaBPZeFHiUn3k7Qf4P1A/s550/Khajurah%201.jpg');
+    background-size: 100% 100%;
+    height: 350px;
+    width: 35%;
+    margin-right: 30px;
+    box-shadow: 0 0 4px 8px black;
+    border-radius: 8px;
+}
+
+.redfort-image{
+    background-image: url('https://abhibuscommunity.com/wp-content/uploads/2018/01/delhi-red-fort.jpg');
+    background-size: 100% 100%;
+    height: 350px;
+    width: 35%;
+    margin-right: 30px;
+    box-shadow: 0 0 4px 8px black;
+    border-radius: 8px;
+}
